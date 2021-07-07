@@ -10,6 +10,12 @@ SuperUsuario
 User: admin
 password: admin1234
 
+PATH/URLS:
+Index: http://127.0.0.1:8000/
+Read/Update/Delete: http://127.0.0.1:8000/Proveedores/
+Create: http://127.0.0.1:8000/CrearProveedores/
+Admin: http://127.0.0.1:8000/admin/
+
 La carpeta se llama exp3 pero es porque use el proyecto como base y no quise cambiarla por temor a generar algún error
 
 
