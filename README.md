@@ -10,6 +10,8 @@ SuperUsuario
 User: admin
 password: admin1234
 
+La carpeta se llama exp3 pero es porque use el proyecto como base y no quise cambiarla por temor a generar algún error
+
 
 
 
