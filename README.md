@@ -16,6 +16,9 @@ Read/Update/Delete: http://127.0.0.1:8000/Proveedores/
 Create: http://127.0.0.1:8000/CrearProveedores/
 Admin: http://127.0.0.1:8000/admin/
 
+el js para generar la contraseña que se ubica en la carpeta static tiene la explicación para generar la contraseña, también en el html de Proveedor explica el proceso de
+la subida de imagen.
+
 La carpeta se llama exp3 pero es porque use el proyecto como base y no quise cambiarla por temor a generar algún error
 
 
